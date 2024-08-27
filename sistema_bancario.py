@@ -1,3 +1,6 @@
+# Desafio do Sistema Bancário
+# Autor: Renato Emanuel Medeiros ed Lira
+
 # =========== Funções Auxiliares ===========
 def exibir_menu():
     menu = """
